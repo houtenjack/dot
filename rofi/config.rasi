@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,ssh";
+ font: "iosevka 10";
+ combi-modi: "window,drun,ssh";
+ }
+@theme "nord"

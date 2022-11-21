@@ -1,0 +1,1 @@
+packages = ["xmonad", "shell", "fish", "alacritty", "bash"]

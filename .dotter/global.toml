@@ -1,0 +1,21 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+"README.md" = ""
+alacritty = ""
+bashprofile = ""
+bashrc = ""
+doom = ""
+fish = ""
+gitconf = ""
+nitrogen = ""
+polybar = ""
+rofi = ""
+wallpapers = ""
+xinit = ""
+xmonad = ""
+
+[default.variables]
