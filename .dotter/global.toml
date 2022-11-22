@@ -4,18 +4,16 @@
 depends = []
 
 [default.files]
-"README.md" = ""
-alacritty = ""
-bashprofile = ""
-bashrc = ""
-doom = ""
-fish = ""
-gitconf = ""
-nitrogen = ""
-polybar = ""
-rofi = ""
-wallpapers = ""
-xinit = ""
-xmonad = ""
+alacritty = "~/.config/alacritty"
+bashprofile = "~/.bash_profile"
+bashrc = "~/.bashrc"
+fish = "~/.config/fish"
+gitconf = "~/.gitconfig"
+nitrogen = "~/.config/nitrogen"
+polybar = "~/.config/polybar"
+rofi = "~/.config/rofi"
+wallpapers = "~/.wallpapers"
+xinit = "~/.xinitrc"
+xmonad = "~/.config/xmonad"
 
 [default.variables]
