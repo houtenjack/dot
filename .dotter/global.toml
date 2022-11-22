@@ -15,5 +15,6 @@ rofi = "~/.config/rofi"
 wallpapers = "~/.wallpapers"
 xinit = "~/.xinitrc"
 xmonad = "~/.config/xmonad"
+fonts = "~/.local/share/fonts"
 
 [default.variables]
